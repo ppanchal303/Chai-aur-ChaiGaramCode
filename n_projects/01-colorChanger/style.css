@@ -10,6 +10,7 @@ body {
 
 div {
   display: flex;
+  justify-content: center;
 }
 
 span {
