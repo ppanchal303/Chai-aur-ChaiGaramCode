@@ -1,0 +1,46 @@
+:root,
+body {
+  background: #212121;
+  color: azure;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+div {
+  display: flex;
+}
+
+span {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.btn {
+  height: 100px;
+  aspect-ratio: 1;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+#grey {
+  background-color: grey;
+}
+
+#red {
+  background-color: red;
+}
+
+#skyblue {
+  background-color: skyblue;
+}
+
+#green {
+  background-color: green;
+}
+
+#purple {
+  background-color: purple;
+}
