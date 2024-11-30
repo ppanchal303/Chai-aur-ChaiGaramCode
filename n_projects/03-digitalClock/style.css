@@ -1,0 +1,29 @@
+body {
+  background-color: #212121;
+  color: antiquewhite;
+  font-family: Arial;
+  font-size: 2em;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
+.outer {
+  height: 100vh;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid white; */
+}
+
+.time-box {
+  background-color: orange;
+  /* height: auto;
+  width: auto; */
+  margin: 0.2em;
+  border-radius: 0.4em;
+  padding: 0.25em 0.25em;
+}
